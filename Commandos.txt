@@ -1,5 +1,6 @@
 git status
 git add path
 git commit
+git commit -m "comentário entre aspas"
 git log
 git push
